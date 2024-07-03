@@ -15,3 +15,5 @@ La finalidad principal de la Lista de interesados es, la de públicar el Encarte
    - Tenrán acompañante de su confianza.
 
 ![11](https://github.com/licjoyboy/1.-Microsoft-Excel/assets/174209500/5007d4d7-67b4-4193-897f-33ebca18a775)
+
+``` SELECT * FROM table ```
