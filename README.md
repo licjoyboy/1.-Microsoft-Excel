@@ -1,4 +1,4 @@
-#Análisis de escolaridad por posición
+# Análisis de escolaridad por posición jerárquica en el FMDC.
 
 ## Contexto
 Lista interesados participantes en el sorteo para la integración de las mesas directivas de Casilla PEF 2024. Contiene datos personales, académicos y de ocupación de cada uno de los integrantes.
